@@ -1,0 +1,8 @@
+[project]
+name = "remote-mcp"
+version = "0.1.0"
+description = "MCP server on Cloud Run for a trivial problem"
+requires-python = ">=3.10"
+dependencies = [
+    "fastmcp==2.6.1",
+]
