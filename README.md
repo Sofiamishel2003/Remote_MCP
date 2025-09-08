@@ -222,6 +222,11 @@ Make sure to include `Mcp-Session-Id` in request headers after `initialize`.
 
 
 ---
+## Integration with Host
+Git: https://github.com/Sofiamishel2003/Chatbot_MCP.git 
+
+<img width="2559" height="1526" alt="image" src="https://github.com/user-attachments/assets/558e41d3-23ab-4d95-a824-f651988adb9f" />
+
 
 ## Acknowledgments
 
